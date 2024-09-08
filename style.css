@@ -1,0 +1,30 @@
+body{
+    background-image: url(green-png-44867.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+    background-size: cover;
+}
+
+
+div.container {
+    text-align: center;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  h1 {
+    text-align: center; 
+ }
+
+  
